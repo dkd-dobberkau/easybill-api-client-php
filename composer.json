@@ -1,5 +1,5 @@
 {
-    "name": "dkd/easybill-api-client",
+    "name": "dkd-dobberkau/easybill-api-client",
     "description": "PHP client for the Easybill REST API",
     "type": "library",
     "license": "MIT",

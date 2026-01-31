@@ -10,7 +10,7 @@ PHP client for the [Easybill REST API](https://www.easybill.de/api/).
 ## Installation
 
 ```bash
-composer require dkd/easybill-api-client
+composer require dkd-dobberkau/easybill-api-client
 ```
 
 ## Usage
