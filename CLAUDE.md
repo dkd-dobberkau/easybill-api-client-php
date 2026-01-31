@@ -20,6 +20,9 @@ composer install
 
 # Code style fix
 ./vendor/bin/php-cs-fixer fix
+
+# Release a new version
+./release.sh 1.0.0
 ```
 
 ## Architecture
